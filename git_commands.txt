@@ -1,0 +1,8 @@
+git config --global.user.name " "
+git config --global.user.email " "
+git init (To create local Repo)
+git add <filename>(To add file to send github)
+git commit -m "Tag" (To use add tag to the file)
+git branch -M
+git remote add origin <github repo http link>
+git push -u origin<branch name>
